@@ -1,6 +1,6 @@
 📚 Aндроид апликација изработена во Јава која овозможува читање на книги во пдф формат како и создавање на wishlist за идни книги кои сакаме да ги прочитаме. Придружено со музика и овозможена Google автентикација. 
 
-![Screenshot_20220413_180216_com example firebaseexample](https://user-images.githubusercontent.com/62062963/164727514-4b926040-727f-40a4-b635-0f48c1063a8e.jpg width="200" height="400")
+![Screenshot_20220413_180216_com example firebaseexample](https://user-images.githubusercontent.com/62062963/164727514-4b926040-727f-40a4-b635-0f48c1063a8e.jpg)
 
 ![Screenshot_20220413_180209_com example firebaseexample](https://user-images.githubusercontent.com/62062963/164727479-f15e1af4-564d-4441-a5af-34ccfddebdee.jpg)
 
